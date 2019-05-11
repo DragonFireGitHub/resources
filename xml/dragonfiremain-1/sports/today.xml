@@ -1,0 +1,152 @@
+<item>
+	<title>[B]====Final 4 NCAA====[/B]</title>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/CBBonCBS2016logo.png/250px-CBBonCBS2016logo.png</thumbnail>
+</item>
+<item>
+	<title>[B]====MLB Games====[/B]</title>
+	<thumbnail>http://www.userlogos.org/files/logos/johnboy41/mlb%20black.png</thumbnail>
+</item>
+<item>
+	<title>MLB Network Channel</title>
+	<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+	<thumbnail>http://www.userlogos.org/files/logos/johnboy41/mlb%20black.png</thumbnail>
+</item>
+<item>
+	<title>Testing</title>
+	<link>http://hlslinear-akc.clt2.media.foxsportsgo.com/hdnts=exp=1555032170~acl=/*~id=a57422f4-4764-482e-a2e8-3898b2efefad-65329-f4fd04ac82cfcc5ac3c91654da5b05fc7c0e8e1b~hmac=0e9ec4f5b42a2827be16c4f1d679358a06e4dff11787dae6559dd1c0bdbb5fb8/3975e8d617da70d4f5e392fee81d77fe/ls01/foxsports/FOXSPORTS_LINEAR_205/live/2019/03/27/73378525/3500K/3500_slide_ads.m3u8</link>
+		<thumbnail>http://www.userlogos.org/files/logos/johnboy41/mlb%20black.png</thumbnail>
+</item>
+<item>
+	<title>[B]====NBA Games====[/B]</title>
+	<thumbnail>http://i64.tinypic.com/4vqzcp.png</thumbnail>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Sun 23:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Wizards vs. Knicks (NBCS WAS)[/COLOR]</title>
+	<link>http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Sun 23:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Wizards vs. Knicks (NBCS WAS)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217569_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217569_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Sun 23:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Magic vs. Celtics (NBCS BOS)[/COLOR]</title>
+	<link>http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Sun 23:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Magic vs. Celtics (NBCS BOS)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217576_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217576_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Mon 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Clippers vs. Warriors (NBCS BAY)[/COLOR]</title>
+	<link>http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Mon 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Clippers vs. Warriors (NBCS BAY)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217466_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217466_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Mon 01:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Nuggets vs. Trail Blazers (NBCS NW)[/COLOR]</title>
+	<link>http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Mon 01:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Nuggets vs. Trail Blazers (NBCS NW)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217581_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217581_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Mon 01:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Pelicans vs. Kings (NBCS CA)[/COLOR]</title>
+	<link>http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Mon 01:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Pelicans vs. Kings (NBCS CA)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217472_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217472_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Tue 23:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Wizards Pregame Live (NBCS WAS)[/COLOR]</title>
+	<link>http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Tue 23:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Wizards Pregame Live (NBCS WAS)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217571_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217571_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Tue 23:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Celtics vs. Wizards (NBCS BOS)[/COLOR]</title>
+	<link>http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Tue 23:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Celtics vs. Wizards (NBCS BOS)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217577_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217577_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Tue 23:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]76ers vs. Heat (NBCSP)[/COLOR]</title>
+	<link>http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Tue 23:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]76ers vs. Heat (NBCSP)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217485_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217485_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Wed 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Warriors vs. Pelicans (NBCS BAY)[/COLOR]</title>
+	<link>http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Wed 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Warriors vs. Pelicans (NBCS BAY)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217467_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217467_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Wed 00:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Chicago Bulls Pregame Live (NBCS CHI)[/COLOR]</title>
+	<link>http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Wed 00:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Chicago Bulls Pregame Live (NBCS CHI)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217478_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217478_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Wed 02:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Wizards Postgame Live (NBCS WAS)[/COLOR]</title>
+	<link>http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Wed 02:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Wizards Postgame Live (NBCS WAS)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217572_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217572_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Wed 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Trail Blazers vs. Lakers (NBCS NW)[/COLOR]</title>
+	<link>http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Wed 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Trail Blazers vs. Lakers (NBCS NW)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217582_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217582_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Wed 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Chicago Bulls Postgame Live (NBCS CHI)[/COLOR]</title>
+	<link>http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Wed 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Chicago Bulls Postgame Live (NBCS CHI)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217479_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217479_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Thu 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Warriors vs. Grizzlies (NBCS BAY)[/COLOR]</title>
+	<link>http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Thu 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Warriors vs. Grizzlies (NBCS BAY)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217468_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217468_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Thu 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Bulls vs. 76ers (NBCSP)[/COLOR]</title>
+	<link>http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Thu 00:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Bulls vs. 76ers (NBCSP)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217486_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217486_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Thu 00:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Bulls vs. 76ers (NBCS CHI)[/COLOR]</title>
+	<link>http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Thu 00:30 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Bulls vs. 76ers (NBCS CHI)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217480_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217480_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Thu 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Kings vs. Trail Blazers (NBCS NW)[/COLOR]</title>
+	<link>http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Thu 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Kings vs. Trail Blazers (NBCS NW)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217583_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217583_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[COLORdeepskyblue][B]Thu 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Kings vs. Trail Blazers (NBCS CA)[/COLOR]</title>
+	<link>http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+	<summary>[COLORdeepskyblue][B]Thu 03:00 [/COLOR] [COLORwhite]NBA [/COLOR][/B][COLORwhite]Kings vs. Trail Blazers (NBCS CA)[/COLOR]</summary>
+	<thumbnail>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217473_m50.jpg</thumbnail>
+	<fanart>https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/217473_1920x1080.jpg</fanart>
+</item>
+<item>
+	<title>[B]====NHL Games====[/B]</title>
+	<thumbnail>http://i64.tinypic.com/4vqzcp.png</thumbnail>
+</item>

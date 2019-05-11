@@ -1,0 +1,45 @@
+<item>
+    <title>[B]WORLD WRESTLING ENTERTAINMENT[/B]</title>
+    <link></link>
+    <thumbnail>https://statics.sportskeeda.com/wp-content/uploads/2016/09/36561eef964a99ba46bd614dd310f419-1474293354-800.jpg</thumbnail>
+</item>
+<item>
+    <title>[B][COLORred]=====LIVE WRESTLING EVENTS=====[/B]</title>
+    <link></link>
+    <thumbnail>https://media04.cdn.agenda.be/sportpaleis-cf17b760424baf17cdaa6b15dd84457c63e1b366.jpg?wl=500</thumbnail>
+</item>
+<item>
+    <title>[B]SmackDown Live[/B]</title>
+    <link>http://e5.112223344.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com</link>
+    <thumbnail>https://statics.sportskeeda.com/editor/2018/10/ef04f-15398444196775-800.jpg</thumbnail>
+</item>
+<item>
+    <title>[B]RAW Live[/B]</title>
+    <link>http://e5.112223344.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com</link>
+    <thumbnail>https://statics.sportskeeda.com/editor/2018/10/ef04f-15398444196775-800.jpg</thumbnail>
+</item>
+
+<item>
+    <title>[B]WWE Pay Per View Events[/B]</title>
+    <link></link>
+    <thumbnail>http://orig07.deviantart.net/ceb9/f/2015/207/6/4/wwe_pay_per_view_logo_2015_by_wrestling_networld-d92v039.jpg</thumbnail>
+</item>
+<item>
+    <title>[B][COLORred]=====WRESTLING CHANNELS=====[/B]</title>
+    <link></link>
+    <thumbnail>https://media04.cdn.agenda.be/sportpaleis-cf17b760424baf17cdaa6b15dd84457c63e1b366.jpg?wl=500</thumbnail>
+</item>
+<item>
+    <title>WWE NXT</title>
+    <link>http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8</link>
+    <thumbnail>https://i1.wp.com/squaredcirclesirens.com/wp-content/uploads/2017/06/NXT.png?resize=450%2C300</thumbnail>
+</item>
+<item>
+    <title>WWE Network</title>
+    <link>
+        <sublink>http://mancaveiptv.biz:8000/live/MIRIAH0101/TEST/917.m3u8?fluxustv.m3u8</sublink>
+        <sublink>http://e4.112223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/</sublink>
+    </link>
+    <thumbnail>https://www.wwe.com/f/styles/wwe_large/public/section/thumb/2014/08/20140123_Article_Network_NETWORK2.jpg</thumbnail>
+</item>
+
