@@ -1,0 +1,1 @@
+﻿======[B][COLOR green]Status: SUPPORTED[/COLOR][/B]========[B][COLOR red]DragonFire[/COLOR][/B] with Civitas Scrapers.=======[B]SUPPORT[/B]===============[B]CHANGE LOG[/B]=======[B]0.0.1[/B]- reorganized menu for trakt- clean install always recommend=======[B]CREDITS[/B]========All Developers named not named. You know who you are. THANK YOU!
