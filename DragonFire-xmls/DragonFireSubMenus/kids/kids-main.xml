@@ -1,0 +1,26 @@
+<dir>
+	<name>One Click Kids</name>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/kids/kids1click.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Kids Under 5</name>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/kids/under5s.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Kids (Debrid Section)</name>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/kids/kidsdebrid.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
