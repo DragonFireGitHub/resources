@@ -1,0 +1,40 @@
+<item>
+	<title>[B]******** 24/7 Movies And TV Shows ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>24/7 Movies</name>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/247movies.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<dir>
+	<name>24/7 TV Shows</name>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/247shows.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<item>
+	<title>[B]******** Kids PlayRoom ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>Kids</name>
+    <link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/kids/kids-main.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<dir>
+	<name>TV Shows</name>
+	<link>https://trakt.tv/users/dragonfire-trakt/collection/shows</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
