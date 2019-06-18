@@ -54,7 +54,3 @@
 	<animated_fanart></animated_fanart>
 	<fanart></fanart>
 </dir>
-<plugin>
-	<title>USA Live TV</title>
-	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/iptv/USA.m3u</link>
-</plugin>
