@@ -43,11 +43,11 @@
 	<fanart></fanart>
 </dir>
 <item>
-	<title>[B]******** DragonFire IpTv ********[/B]</title>
+	<title>[B]******** DragonFire IPTV ********[/B]</title>
 	<thumbnail></thumbnail>
 </item>
 <dir>
-	<name>IpTv</name>
+	<name>IPTV</name>
     <link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/iptv/iptv-main.xml</link>
 	<animated_thumbnail></animated_thumbnail>
 	<thumbnail></thumbnail>
