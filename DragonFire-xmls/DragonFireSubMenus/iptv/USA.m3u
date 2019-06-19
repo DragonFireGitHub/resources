@@ -2,7 +2,7 @@
 #group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#<thumbnail></thumbnail> group-title="USA",24-7 Retro TV
+24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 <thumbnail></thumbnail>
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="USA",30A TV
