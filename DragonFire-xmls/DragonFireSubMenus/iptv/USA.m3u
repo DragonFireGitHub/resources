@@ -114,7 +114,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="USA",Channel 7
-http://radio.7chan.org:8000/CH7
+http://radio.7chan.org:8000/CH7.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelv6.com/images/Header/V6-logo.png" group-title="USA",Channel V6
 http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8?fluxustv.m3u8
