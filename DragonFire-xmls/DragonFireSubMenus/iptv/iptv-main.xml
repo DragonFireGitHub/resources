@@ -1,0 +1,12 @@
+<item>
+	<title>[B]******** IPTV Stuff ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<plugin>
+	<title>USA Live TV</title>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/iptv/USA.m3u</link>
+</plugin>
+<plugin>
+	<title>USA 2 Live TV</title>
+	<link>https://raw.githubusercontent.com/DragonFireGitHub/resources/master/DragonFire-xmls/DragonFireSubMenus/iptv/USA-2.m3u</link>
+</plugin>
