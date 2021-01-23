@@ -30,5 +30,5 @@
 <item>
 <title>XVideos</title>
 <label2>Video Add-On</label2>
-<action>ActivateWindow(Videos,"plugin://plugin.video.videodevil/?url=title%3AXVideos%26director%3AVideoDevil%26genre%3AXVideos%26type%3Arss%26icon%3AC%3A%5CUsers%5Cchris%5CKodi-Chris%27s%20Build%5Cportable_data%5Caddons%5Cplugin.video.videodevil%5Cresources%5Cimages%5Cxvideos.png%26url%3Axvideos.com.cfg",return)</action>
+<link>ActivateWindow(Videos,"plugin://plugin.video.videodevil/?url=title%3AXVideos%26director%3AVideoDevil%26genre%3AXVideos%26type%3Arss%26icon%3AC%3A%5CUsers%5Cchris%5CKodi-Chris%27s%20Build%5Cportable_data%5Caddons%5Cplugin.video.videodevil%5Cresources%5Cimages%5Cxvideos.png%26url%3Axvideos.com.cfg",return)</link>
 </item>
