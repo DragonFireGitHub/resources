@@ -33,7 +33,8 @@
 <thumbnail />
 </plugin>
 
-<dir>
+<plugin>
+<link>plugin://plugin.video.videodevil</link>
 <name>XVideos</name>
 <link>https://www.xvideos.com/</link>
-</dir>
+</plugin>
